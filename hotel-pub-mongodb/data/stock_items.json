@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e8867"
+  },
+  "stock_item_id": 401,
+  "hotel_id": 1,
+  "name": "Beer Keg",
+  "quantity_in_stock": 12,
+  "reorder_level": 5,
+  "unit": "kegs"
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e8868"
+  },
+  "stock_item_id": 402,
+  "hotel_id": 1,
+  "name": "Burger Buns",
+  "quantity_in_stock": 20,
+  "reorder_level": 10,
+  "unit": "packs"
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e8869"
+  },
+  "stock_item_id": 403,
+  "hotel_id": 2,
+  "name": "Chicken Fillets",
+  "quantity_in_stock": 8,
+  "reorder_level": 10,
+  "unit": "boxes"
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e886a"
+  },
+  "stock_item_id": 404,
+  "hotel_id": 2,
+  "name": "Red Wine Bottles",
+  "quantity_in_stock": 15,
+  "reorder_level": 6,
+  "unit": "bottles"
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e886b"
+  },
+  "stock_item_id": 405,
+  "hotel_id": 3,
+  "name": "Potatoes",
+  "quantity_in_stock": 25,
+  "reorder_level": 10,
+  "unit": "bags"
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e886c"
+  },
+  "stock_item_id": 406,
+  "hotel_id": 3,
+  "name": "Cola Syrup",
+  "quantity_in_stock": 4,
+  "reorder_level": 5,
+  "unit": "containers"
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e886d"
+  },
+  "stock_item_id": 407,
+  "hotel_id": 4,
+  "name": "Pizza Bases",
+  "quantity_in_stock": 18,
+  "reorder_level": 8,
+  "unit": "packs"
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e886e"
+  },
+  "stock_item_id": 408,
+  "hotel_id": 4,
+  "name": "Lettuce",
+  "quantity_in_stock": 6,
+  "reorder_level": 5,
+  "unit": "crates"
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e886f"
+  },
+  "stock_item_id": 409,
+  "hotel_id": 5,
+  "name": "Steak Cuts",
+  "quantity_in_stock": 7,
+  "reorder_level": 8,
+  "unit": "boxes"
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e8870"
+  },
+  "stock_item_id": 410,
+  "hotel_id": 5,
+  "name": "Lemonade Bottles",
+  "quantity_in_stock": 14,
+  "reorder_level": 6,
+  "unit": "bottles"
+}]

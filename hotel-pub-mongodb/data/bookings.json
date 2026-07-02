@@ -1,0 +1,240 @@
+[{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e8871"
+  },
+  "booking_id": 5001,
+  "guest_id": 1,
+  "hotel_id": 1,
+  "room_id": 101,
+  "check_in_date": {
+    "$date": "2026-04-15T00:00:00.000Z"
+  },
+  "check_out_date": {
+    "$date": "2026-04-18T00:00:00.000Z"
+  },
+  "booking_datetime": {
+    "$date": "2026-03-20T14:35:00.000Z"
+  },
+  "total_cost": 255,
+  "status": "confirmed"
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e8872"
+  },
+  "booking_id": 5002,
+  "guest_id": 2,
+  "hotel_id": 1,
+  "room_id": 102,
+  "check_in_date": {
+    "$date": "2026-04-20T00:00:00.000Z"
+  },
+  "check_out_date": {
+    "$date": "2026-04-23T00:00:00.000Z"
+  },
+  "booking_datetime": {
+    "$date": "2026-03-21T10:15:00.000Z"
+  },
+  "total_cost": 360,
+  "status": "confirmed"
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e8873"
+  },
+  "booking_id": 5003,
+  "guest_id": 3,
+  "hotel_id": 2,
+  "room_id": 202,
+  "check_in_date": {
+    "$date": "2026-04-11T00:00:00.000Z"
+  },
+  "check_out_date": {
+    "$date": "2026-04-13T00:00:00.000Z"
+  },
+  "booking_datetime": {
+    "$date": "2026-03-19T09:20:00.000Z"
+  },
+  "total_cost": 250,
+  "status": "confirmed"
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e8874"
+  },
+  "booking_id": 5004,
+  "guest_id": 4,
+  "hotel_id": 2,
+  "room_id": 203,
+  "check_in_date": {
+    "$date": "2026-05-01T00:00:00.000Z"
+  },
+  "check_out_date": {
+    "$date": "2026-05-04T00:00:00.000Z"
+  },
+  "booking_datetime": {
+    "$date": "2026-03-22T11:00:00.000Z"
+  },
+  "total_cost": 540,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e8875"
+  },
+  "booking_id": 5005,
+  "guest_id": 5,
+  "hotel_id": 3,
+  "room_id": 301,
+  "check_in_date": {
+    "$date": "2026-04-08T00:00:00.000Z"
+  },
+  "check_out_date": {
+    "$date": "2026-04-10T00:00:00.000Z"
+  },
+  "booking_datetime": {
+    "$date": "2026-03-18T16:45:00.000Z"
+  },
+  "total_cost": 184,
+  "status": "confirmed"
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e8876"
+  },
+  "booking_id": 5006,
+  "guest_id": 6,
+  "hotel_id": 3,
+  "room_id": 303,
+  "check_in_date": {
+    "$date": "2026-04-25T00:00:00.000Z"
+  },
+  "check_out_date": {
+    "$date": "2026-04-28T00:00:00.000Z"
+  },
+  "booking_datetime": {
+    "$date": "2026-03-22T13:10:00.000Z"
+  },
+  "total_cost": 585,
+  "status": "confirmed"
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e8877"
+  },
+  "booking_id": 5007,
+  "guest_id": 7,
+  "hotel_id": 4,
+  "room_id": 401,
+  "check_in_date": {
+    "$date": "2026-04-12T00:00:00.000Z"
+  },
+  "check_out_date": {
+    "$date": "2026-04-14T00:00:00.000Z"
+  },
+  "booking_datetime": {
+    "$date": "2026-03-23T08:00:00.000Z"
+  },
+  "total_cost": 200,
+  "status": "cancelled"
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e8878"
+  },
+  "booking_id": 5008,
+  "guest_id": 8,
+  "hotel_id": 4,
+  "room_id": 403,
+  "check_in_date": {
+    "$date": "2026-05-10T00:00:00.000Z"
+  },
+  "check_out_date": {
+    "$date": "2026-05-13T00:00:00.000Z"
+  },
+  "booking_datetime": {
+    "$date": "2026-03-24T09:50:00.000Z"
+  },
+  "total_cost": 630,
+  "status": "confirmed"
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e8879"
+  },
+  "booking_id": 5009,
+  "guest_id": 9,
+  "hotel_id": 5,
+  "room_id": 501,
+  "check_in_date": {
+    "$date": "2026-04-30T00:00:00.000Z"
+  },
+  "check_out_date": {
+    "$date": "2026-05-02T00:00:00.000Z"
+  },
+  "booking_datetime": {
+    "$date": "2026-03-24T14:25:00.000Z"
+  },
+  "total_cost": 160,
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e887a"
+  },
+  "booking_id": 5010,
+  "guest_id": 10,
+  "hotel_id": 5,
+  "room_id": 503,
+  "check_in_date": {
+    "$date": "2026-04-17T00:00:00.000Z"
+  },
+  "check_out_date": {
+    "$date": "2026-04-20T00:00:00.000Z"
+  },
+  "booking_datetime": {
+    "$date": "2026-03-25T12:40:00.000Z"
+  },
+  "total_cost": 336,
+  "status": "confirmed"
+},
+{
+  "_id": {
+    "$oid": "69b81f06a1b5541f863e8885"
+  },
+  "booking_id": 5011,
+  "guest_id": 1,
+  "hotel_id": 1,
+  "room_id": 103,
+  "check_in_date": {
+    "$date": "2026-05-15T00:00:00.000Z"
+  },
+  "check_out_date": {
+    "$date": "2026-05-18T00:00:00.000Z"
+  },
+  "booking_datetime": {
+    "$date": "2026-03-16T15:17:26.234Z"
+  },
+  "total_cost": 330,
+  "status": "confirmed"
+},
+{
+  "_id": {
+    "$oid": "69b821bfa1b5541f863e8887"
+  },
+  "booking_id": 5012,
+  "guest_id": 1,
+  "hotel_id": 1,
+  "room_id": 103,
+  "check_in_date": {
+    "$date": "2026-05-15T00:00:00.000Z"
+  },
+  "check_out_date": {
+    "$date": "2026-05-18T00:00:00.000Z"
+  },
+  "booking_datetime": {
+    "$date": "2026-03-16T15:29:03.605Z"
+  },
+  "total_cost": 330,
+  "status": "confirmed"
+}]

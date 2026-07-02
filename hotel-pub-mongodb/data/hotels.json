@@ -1,0 +1,390 @@
+[{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e883f"
+  },
+  "hotel_id": 1,
+  "name": "Dundee Central Hotel",
+  "address": {
+    "address_line1": "123 High Street",
+    "city": "Dundee",
+    "postcode": "DD1 1AA"
+  },
+  "contact": {
+    "phone_number": "01382111111",
+    "email": "dundeecentral@hotel.co.uk"
+  },
+  "rooms": [
+    {
+      "room_id": 101,
+      "room_number": "101",
+      "room_type": "Single",
+      "price_per_night": 85,
+      "status": "available"
+    },
+    {
+      "room_id": 102,
+      "room_number": "102",
+      "room_type": "Double",
+      "price_per_night": 120,
+      "status": "occupied"
+    },
+    {
+      "room_id": 103,
+      "room_number": "103",
+      "room_type": "Twin",
+      "price_per_night": 110,
+      "status": "available"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e8840"
+  },
+  "hotel_id": 2,
+  "name": "Aberdeen Harbour Hotel",
+  "address": {
+    "address_line1": "45 Market Street",
+    "city": "Aberdeen",
+    "postcode": "AB11 5PY"
+  },
+  "contact": {
+    "phone_number": "01224111111",
+    "email": "aberdeenharbour@hotel.co.uk"
+  },
+  "rooms": [
+    {
+      "room_id": 201,
+      "room_number": "201",
+      "room_type": "Single",
+      "price_per_night": 88,
+      "status": "occupied"
+    },
+    {
+      "room_id": 202,
+      "room_number": "202",
+      "room_type": "Double",
+      "price_per_night": 125,
+      "status": "available"
+    },
+    {
+      "room_id": 203,
+      "room_number": "203",
+      "room_type": "Suite",
+      "price_per_night": 180,
+      "status": "available"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e8841"
+  },
+  "hotel_id": 3,
+  "name": "Glasgow Riverside Hotel",
+  "address": {
+    "address_line1": "78 Clyde Road",
+    "city": "Glasgow",
+    "postcode": "G1 2FF"
+  },
+  "contact": {
+    "phone_number": "01411111111",
+    "email": "glasgowriverside@hotel.co.uk"
+  },
+  "rooms": [
+    {
+      "room_id": 301,
+      "room_number": "301",
+      "room_type": "Single",
+      "price_per_night": 92,
+      "status": "available"
+    },
+    {
+      "room_id": 302,
+      "room_number": "302",
+      "room_type": "Double",
+      "price_per_night": 130,
+      "status": "occupied"
+    },
+    {
+      "room_id": 303,
+      "room_number": "303",
+      "room_type": "Suite",
+      "price_per_night": 195,
+      "status": "available"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e8842"
+  },
+  "hotel_id": 4,
+  "name": "Edinburgh Castle View Hotel",
+  "address": {
+    "address_line1": "10 Princes Street",
+    "city": "Edinburgh",
+    "postcode": "EH2 2ER"
+  },
+  "contact": {
+    "phone_number": "01313111111",
+    "email": "castleview@hotel.co.uk"
+  },
+  "rooms": [
+    {
+      "room_id": 401,
+      "room_number": "401",
+      "room_type": "Single",
+      "price_per_night": 100,
+      "status": "available"
+    },
+    {
+      "room_id": 402,
+      "room_number": "402",
+      "room_type": "Double",
+      "price_per_night": 145,
+      "status": "occupied"
+    },
+    {
+      "room_id": 403,
+      "room_number": "403",
+      "room_type": "Suite",
+      "price_per_night": 210,
+      "status": "available"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e8843"
+  },
+  "hotel_id": 5,
+  "name": "Perth Garden Hotel",
+  "address": {
+    "address_line1": "22 Tay Street",
+    "city": "Perth",
+    "postcode": "PH1 5BL"
+  },
+  "contact": {
+    "phone_number": "01738111111",
+    "email": "perthgarden@hotel.co.uk"
+  },
+  "rooms": [
+    {
+      "room_id": 501,
+      "room_number": "501",
+      "room_type": "Single",
+      "price_per_night": 80,
+      "status": "available"
+    },
+    {
+      "room_id": 502,
+      "room_number": "502",
+      "room_type": "Double",
+      "price_per_night": 118,
+      "status": "occupied"
+    },
+    {
+      "room_id": 503,
+      "room_number": "503",
+      "room_type": "Twin",
+      "price_per_night": 112,
+      "status": "available"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e8844"
+  },
+  "hotel_id": 6,
+  "name": "Inverness Lochside Hotel",
+  "address": {
+    "address_line1": "3 Bridge Road",
+    "city": "Inverness",
+    "postcode": "IV1 1NX"
+  },
+  "contact": {
+    "phone_number": "01463111111",
+    "email": "lochside@hotel.co.uk"
+  },
+  "rooms": [
+    {
+      "room_id": 601,
+      "room_number": "601",
+      "room_type": "Single",
+      "price_per_night": 95,
+      "status": "occupied"
+    },
+    {
+      "room_id": 602,
+      "room_number": "602",
+      "room_type": "Double",
+      "price_per_night": 135,
+      "status": "available"
+    },
+    {
+      "room_id": 603,
+      "room_number": "603",
+      "room_type": "Suite",
+      "price_per_night": 205,
+      "status": "available"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e8845"
+  },
+  "hotel_id": 7,
+  "name": "Stirling Gate Hotel",
+  "address": {
+    "address_line1": "14 King Street",
+    "city": "Stirling",
+    "postcode": "FK8 1DN"
+  },
+  "contact": {
+    "phone_number": "01786111111",
+    "email": "stirlinggate@hotel.co.uk"
+  },
+  "rooms": [
+    {
+      "room_id": 701,
+      "room_number": "701",
+      "room_type": "Single",
+      "price_per_night": 84,
+      "status": "available"
+    },
+    {
+      "room_id": 702,
+      "room_number": "702",
+      "room_type": "Double",
+      "price_per_night": 122,
+      "status": "occupied"
+    },
+    {
+      "room_id": 703,
+      "room_number": "703",
+      "room_type": "Twin",
+      "price_per_night": 116,
+      "status": "available"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e8846"
+  },
+  "hotel_id": 8,
+  "name": "Fife Coastal Hotel",
+  "address": {
+    "address_line1": "9 Shore Lane",
+    "city": "St Andrews",
+    "postcode": "KY16 9XQ"
+  },
+  "contact": {
+    "phone_number": "01334111111",
+    "email": "fifecoastal@hotel.co.uk"
+  },
+  "rooms": [
+    {
+      "room_id": 801,
+      "room_number": "801",
+      "room_type": "Single",
+      "price_per_night": 98,
+      "status": "available"
+    },
+    {
+      "room_id": 802,
+      "room_number": "802",
+      "room_type": "Double",
+      "price_per_night": 140,
+      "status": "occupied"
+    },
+    {
+      "room_id": 803,
+      "room_number": "803",
+      "room_type": "Suite",
+      "price_per_night": 220,
+      "status": "available"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e8847"
+  },
+  "hotel_id": 9,
+  "name": "Ayr Seafront Hotel",
+  "address": {
+    "address_line1": "67 Marine Parade",
+    "city": "Ayr",
+    "postcode": "KA7 1BE"
+  },
+  "contact": {
+    "phone_number": "01292111111",
+    "email": "ayrseafront@hotel.co.uk"
+  },
+  "rooms": [
+    {
+      "room_id": 901,
+      "room_number": "901",
+      "room_type": "Single",
+      "price_per_night": 82,
+      "status": "occupied"
+    },
+    {
+      "room_id": 902,
+      "room_number": "902",
+      "room_type": "Double",
+      "price_per_night": 119,
+      "status": "available"
+    },
+    {
+      "room_id": 903,
+      "room_number": "903",
+      "room_type": "Twin",
+      "price_per_night": 114,
+      "status": "available"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e8848"
+  },
+  "hotel_id": 10,
+  "name": "Oban Bay Hotel",
+  "address": {
+    "address_line1": "5 Harbour View",
+    "city": "Oban",
+    "postcode": "PA34 4LN"
+  },
+  "contact": {
+    "phone_number": "01631111111",
+    "email": "obanbay@hotel.co.uk"
+  },
+  "rooms": [
+    {
+      "room_id": 1001,
+      "room_number": "1001",
+      "room_type": "Single",
+      "price_per_night": 90,
+      "status": "available"
+    },
+    {
+      "room_id": 1002,
+      "room_number": "1002",
+      "room_type": "Double",
+      "price_per_night": 128,
+      "status": "occupied"
+    },
+    {
+      "room_id": 1003,
+      "room_number": "1003",
+      "room_type": "Suite",
+      "price_per_night": 200,
+      "status": "available"
+    }
+  ]
+}]

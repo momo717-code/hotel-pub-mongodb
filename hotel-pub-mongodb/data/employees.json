@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e8853"
+  },
+  "employee_id": 1,
+  "hotel_id": 1,
+  "first_name": "Sarah",
+  "last_name": "Brown",
+  "role": "Bartender",
+  "hourly_rate": 12.5,
+  "employment_status": "Full-time"
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e8854"
+  },
+  "employee_id": 2,
+  "hotel_id": 1,
+  "first_name": "Ryan",
+  "last_name": "Clark",
+  "role": "Receptionist",
+  "hourly_rate": 12,
+  "employment_status": "Full-time"
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e8855"
+  },
+  "employee_id": 3,
+  "hotel_id": 2,
+  "first_name": "Ava",
+  "last_name": "Mitchell",
+  "role": "Manager",
+  "hourly_rate": 16.5,
+  "employment_status": "Full-time"
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e8856"
+  },
+  "employee_id": 4,
+  "hotel_id": 2,
+  "first_name": "Jack",
+  "last_name": "Robertson",
+  "role": "Chef",
+  "hourly_rate": 13.8,
+  "employment_status": "Full-time"
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e8857"
+  },
+  "employee_id": 5,
+  "hotel_id": 3,
+  "first_name": "Lucy",
+  "last_name": "Anderson",
+  "role": "Server",
+  "hourly_rate": 11.9,
+  "employment_status": "Part-time"
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e8858"
+  },
+  "employee_id": 6,
+  "hotel_id": 3,
+  "first_name": "Noah",
+  "last_name": "Paterson",
+  "role": "Bartender",
+  "hourly_rate": 12.4,
+  "employment_status": "Full-time"
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e8859"
+  },
+  "employee_id": 7,
+  "hotel_id": 4,
+  "first_name": "Grace",
+  "last_name": "Young",
+  "role": "Receptionist",
+  "hourly_rate": 12.1,
+  "employment_status": "Part-time"
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e885a"
+  },
+  "employee_id": 8,
+  "hotel_id": 4,
+  "first_name": "Adam",
+  "last_name": "Walker",
+  "role": "Manager",
+  "hourly_rate": 17,
+  "employment_status": "Full-time"
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e885b"
+  },
+  "employee_id": 9,
+  "hotel_id": 5,
+  "first_name": "Ella",
+  "last_name": "Hughes",
+  "role": "Chef",
+  "hourly_rate": 13.5,
+  "employment_status": "Full-time"
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e885c"
+  },
+  "employee_id": 10,
+  "hotel_id": 5,
+  "first_name": "Ben",
+  "last_name": "King",
+  "role": "Server",
+  "hourly_rate": 11.8,
+  "employment_status": "Part-time"
+}]

@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e885d"
+  },
+  "menu_item_id": 201,
+  "name": "Cheeseburger",
+  "category": "Food",
+  "price": 11.95,
+  "is_alcoholic": false
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e885e"
+  },
+  "menu_item_id": 202,
+  "name": "Chicken Burger",
+  "category": "Food",
+  "price": 12.45,
+  "is_alcoholic": false
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e885f"
+  },
+  "menu_item_id": 203,
+  "name": "Fish and Chips",
+  "category": "Food",
+  "price": 13.5,
+  "is_alcoholic": false
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e8860"
+  },
+  "menu_item_id": 204,
+  "name": "Caesar Salad",
+  "category": "Food",
+  "price": 9.5,
+  "is_alcoholic": false
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e8861"
+  },
+  "menu_item_id": 205,
+  "name": "Steak Pie",
+  "category": "Food",
+  "price": 14.25,
+  "is_alcoholic": false
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e8862"
+  },
+  "menu_item_id": 206,
+  "name": "Margherita Pizza",
+  "category": "Food",
+  "price": 10.95,
+  "is_alcoholic": false
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e8863"
+  },
+  "menu_item_id": 207,
+  "name": "Beer",
+  "category": "Drink",
+  "price": 5.5,
+  "is_alcoholic": true
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e8864"
+  },
+  "menu_item_id": 208,
+  "name": "Red Wine",
+  "category": "Drink",
+  "price": 6.75,
+  "is_alcoholic": true
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e8865"
+  },
+  "menu_item_id": 209,
+  "name": "Cola",
+  "category": "Drink",
+  "price": 3.25,
+  "is_alcoholic": false
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e8866"
+  },
+  "menu_item_id": 210,
+  "name": "Lemonade",
+  "category": "Drink",
+  "price": 3.15,
+  "is_alcoholic": false
+}]

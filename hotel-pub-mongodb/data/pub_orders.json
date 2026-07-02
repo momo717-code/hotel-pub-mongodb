@@ -1,0 +1,328 @@
+[{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e887b"
+  },
+  "order_id": 3001,
+  "hotel_id": 1,
+  "employee_id": 1,
+  "guest_id": 1,
+  "order_datetime": {
+    "$date": "2026-03-10T19:20:00.000Z"
+  },
+  "total_amount": 29.4,
+  "status": "paid",
+  "items": [
+    {
+      "menu_item_id": 201,
+      "name": "Cheeseburger",
+      "category": "Food",
+      "quantity": 2,
+      "line_total": 23.9
+    },
+    {
+      "menu_item_id": 210,
+      "name": "Lemonade",
+      "category": "Drink",
+      "quantity": 1,
+      "line_total": 3.15
+    },
+    {
+      "menu_item_id": 209,
+      "name": "Cola",
+      "category": "Drink",
+      "quantity": 1,
+      "line_total": 3.25
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e887c"
+  },
+  "order_id": 3002,
+  "hotel_id": 1,
+  "employee_id": 1,
+  "guest_id": 2,
+  "order_datetime": {
+    "$date": "2026-03-11T20:10:00.000Z"
+  },
+  "total_amount": 19.45,
+  "status": "paid",
+  "items": [
+    {
+      "menu_item_id": 202,
+      "name": "Chicken Burger",
+      "category": "Food",
+      "quantity": 1,
+      "line_total": 12.45
+    },
+    {
+      "menu_item_id": 207,
+      "name": "Beer",
+      "category": "Drink",
+      "quantity": 1,
+      "line_total": 5.5
+    },
+    {
+      "menu_item_id": 210,
+      "name": "Lemonade",
+      "category": "Drink",
+      "quantity": 1,
+      "line_total": 3.15
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e887d"
+  },
+  "order_id": 3003,
+  "hotel_id": 2,
+  "employee_id": 4,
+  "guest_id": 3,
+  "order_datetime": {
+    "$date": "2026-03-12T18:30:00.000Z"
+  },
+  "total_amount": 20.25,
+  "status": "paid",
+  "items": [
+    {
+      "menu_item_id": 203,
+      "name": "Fish and Chips",
+      "category": "Food",
+      "quantity": 1,
+      "line_total": 13.5
+    },
+    {
+      "menu_item_id": 208,
+      "name": "Red Wine",
+      "category": "Drink",
+      "quantity": 1,
+      "line_total": 6.75
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e887e"
+  },
+  "order_id": 3004,
+  "hotel_id": 2,
+  "employee_id": 4,
+  "guest_id": 4,
+  "order_datetime": {
+    "$date": "2026-03-12T19:10:00.000Z"
+  },
+  "total_amount": 17.75,
+  "status": "paid",
+  "items": [
+    {
+      "menu_item_id": 204,
+      "name": "Caesar Salad",
+      "category": "Food",
+      "quantity": 1,
+      "line_total": 9.5
+    },
+    {
+      "menu_item_id": 208,
+      "name": "Red Wine",
+      "category": "Drink",
+      "quantity": 1,
+      "line_total": 6.75
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e887f"
+  },
+  "order_id": 3005,
+  "hotel_id": 3,
+  "employee_id": 5,
+  "guest_id": 5,
+  "order_datetime": {
+    "$date": "2026-03-13T17:40:00.000Z"
+  },
+  "total_amount": 16.75,
+  "status": "paid",
+  "items": [
+    {
+      "menu_item_id": 206,
+      "name": "Margherita Pizza",
+      "category": "Food",
+      "quantity": 1,
+      "line_total": 10.95
+    },
+    {
+      "menu_item_id": 209,
+      "name": "Cola",
+      "category": "Drink",
+      "quantity": 1,
+      "line_total": 3.25
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e8880"
+  },
+  "order_id": 3006,
+  "hotel_id": 3,
+  "employee_id": 6,
+  "guest_id": 6,
+  "order_datetime": {
+    "$date": "2026-03-13T20:15:00.000Z"
+  },
+  "total_amount": 19,
+  "status": "paid",
+  "items": [
+    {
+      "menu_item_id": 205,
+      "name": "Steak Pie",
+      "category": "Food",
+      "quantity": 1,
+      "line_total": 14.25
+    },
+    {
+      "menu_item_id": 210,
+      "name": "Lemonade",
+      "category": "Drink",
+      "quantity": 1,
+      "line_total": 3.15
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e8881"
+  },
+  "order_id": 3007,
+  "hotel_id": 4,
+  "employee_id": 8,
+  "guest_id": 7,
+  "order_datetime": {
+    "$date": "2026-03-14T18:05:00.000Z"
+  },
+  "total_amount": 17.45,
+  "status": "paid",
+  "items": [
+    {
+      "menu_item_id": 202,
+      "name": "Chicken Burger",
+      "category": "Food",
+      "quantity": 1,
+      "line_total": 12.45
+    },
+    {
+      "menu_item_id": 209,
+      "name": "Cola",
+      "category": "Drink",
+      "quantity": 1,
+      "line_total": 3.25
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e8882"
+  },
+  "order_id": 3008,
+  "hotel_id": 4,
+  "employee_id": 8,
+  "guest_id": 8,
+  "order_datetime": {
+    "$date": "2026-03-14T21:10:00.000Z"
+  },
+  "total_amount": 24.25,
+  "status": "unpaid",
+  "items": [
+    {
+      "menu_item_id": 203,
+      "name": "Fish and Chips",
+      "category": "Food",
+      "quantity": 1,
+      "line_total": 13.5
+    },
+    {
+      "menu_item_id": 207,
+      "name": "Beer",
+      "category": "Drink",
+      "quantity": 1,
+      "line_total": 5.5
+    },
+    {
+      "menu_item_id": 209,
+      "name": "Cola",
+      "category": "Drink",
+      "quantity": 1,
+      "line_total": 3.25
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e8883"
+  },
+  "order_id": 3009,
+  "hotel_id": 5,
+  "employee_id": 9,
+  "guest_id": 9,
+  "order_datetime": {
+    "$date": "2026-03-15T19:25:00.000Z"
+  },
+  "total_amount": 20,
+  "status": "paid",
+  "items": [
+    {
+      "menu_item_id": 205,
+      "name": "Steak Pie",
+      "category": "Food",
+      "quantity": 1,
+      "line_total": 14.25
+    },
+    {
+      "menu_item_id": 207,
+      "name": "Beer",
+      "category": "Drink",
+      "quantity": 1,
+      "line_total": 5.5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69b81e66a1b5541f863e8884"
+  },
+  "order_id": 3010,
+  "hotel_id": 5,
+  "employee_id": 10,
+  "guest_id": 10,
+  "order_datetime": {
+    "$date": "2026-03-15T20:00:00.000Z"
+  },
+  "total_amount": 15.7,
+  "status": "paid",
+  "items": [
+    {
+      "menu_item_id": 204,
+      "name": "Caesar Salad",
+      "category": "Food",
+      "quantity": 1,
+      "line_total": 9.5
+    },
+    {
+      "menu_item_id": 210,
+      "name": "Lemonade",
+      "category": "Drink",
+      "quantity": 1,
+      "line_total": 3.15
+    },
+    {
+      "menu_item_id": 209,
+      "name": "Cola",
+      "category": "Drink",
+      "quantity": 1,
+      "line_total": 3.25
+    }
+  ]
+}]
