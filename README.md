@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29660605/README.md)
 # 🍺 Hotel & Pub Management — MongoDB (NoSQL)
 
 A **NoSQL / document-database** redesign of a multi-site hotel-and-pub business in **MongoDB**, built around how the data is actually read. Covers hotels, rooms, guests, bookings, employees, menu, pub orders, and stock across seven collections — with role-based queries for managers, employees, and customers.
